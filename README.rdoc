@@ -1,6 +1,6 @@
 == README
 
-This react app is the same application as in {React Tutorial}[https://facebook.github.io/react/docs/tutorial.html] but built as a rails application using react-rails gem.
+This react app is the same application as in {React Tutorial}[https://facebook.github.io/react/docs/tutorial.html] but built as a rails application using <tt>react-rails</tt>gem.
 
 ===SETUP
 
